@@ -1,6 +1,5 @@
 
 {% include_relative sample.html %}
-{% include_relative .well-known/assetlinks.json %}
 
 ## Welcome to GitHub Pages
 
