@@ -1,6 +1,5 @@
 
 {% include_relative sample.html %}
-{% include_relative movies %}
 
 ## Welcome to GitHub Pages
 
